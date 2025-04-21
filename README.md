@@ -8,3 +8,14 @@ Each `.sql` file contains a specific business question or analytical goal, while
 
 - `/sql/` – Contains all SQL scripts used for analysis
 - `/csv/` – Contains the result of each query in CSV format
+
+# Key Topics Covered
+
+· Conversion Funnel: Tracks user journey from views to purchases.
+· Revenue Analysis: Total revenue by brand, product, and time period.
+· User Behavior: Session duration, frequency of visits, loyalty indicators.
+· Cohort & Retention Analysis: Tracks returning users over weekly periods.
+· RFM Analysis: Segments customers based on Recency, Frequency, and Monetary value.
+· Anomaly Detection: Flags price spikes across products.
+· A/B Testing Simulations: Simulates experimental groups and compares conversion rates.
+· Churn Detection: Identifies users who stopped interacting after limited activity.
